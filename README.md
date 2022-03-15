@@ -9,9 +9,15 @@ Microservices:
 - Alta capacidade de Manutenibilidade
 - Modernização tecnológica
 - Equipes multidisciplinar
+- Independência das Equipes
 - Isolamento a falhas
 - Isolamento a Modelagem de dados
 - Adequação tecnológica para diferentes regras de negócio (divisão da complexidade do negócio)
+- Divisão da complexidade do negócio
+- Baixo Acoplamento
+- Melhor testabilidade
+- Agilidade nas mudanças
+
 
 Evitar o acoplamento 
 
@@ -22,3 +28,4 @@ A mudança do modelo Monolítico para Microserviços vai muito além de Código 
 - Tempo de Entrega:
 - Gestão de Pessoas: As equipes irão trabalhar de forma diferente do sistema monolítico
 
+A arquitetura de microservices não é uma bala de prata.
