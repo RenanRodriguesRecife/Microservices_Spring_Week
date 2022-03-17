@@ -16,5 +16,10 @@ A arquitetura de microservices não é uma bala de prata.
 
 - Spring Boot: É uma simplificação do spring framework que pode trazer uma produtividade maior
 
-- Spring data: apresenta vário subprojetos que permite trabalhar com bancos 
-relacioanis e não relacionais
+- Spring data: apresenta vário subprojetos que permite trabalhar com bancos relacioanis e não relacionais
+
+- Spring AMQP: quando precisar implemenetar serviços de mensageria
+
+- Spring Cloud: traz algumas soluções prontas para a arquitetura de microservices
+
+- Spring Batch: para trabalhar com cargas e lotes
